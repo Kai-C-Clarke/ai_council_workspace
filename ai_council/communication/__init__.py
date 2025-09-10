@@ -1,0 +1,1 @@
+"""Communication components for inter-agent messaging."""
